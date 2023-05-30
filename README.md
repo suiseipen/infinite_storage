@@ -1,0 +1,2 @@
+# infinite_storage
+infinite storageのpyを参考に作りました。Youtube上げたらinfiniteです
